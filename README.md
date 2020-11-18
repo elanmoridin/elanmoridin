@@ -1,4 +1,4 @@
-### Hi there 👋, I'm Zach Doll 👨‍💻
+# Hi there 👋, I'm Zach Doll 👨‍💻
 
 ## I’m a passionate and authentic software engineer, tinkerer, and gamer
 <!--
