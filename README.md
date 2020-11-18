@@ -29,13 +29,13 @@ Here are some ideas to get you started:
 </a>
 <br />
 <br />
-### Spotify Playing 🎧  
+<h2>Spotify Playing 🎧</h2>  
 <!---
 [![Spotify](https://novatorem.ereshzealous.vercel.app/api/spotify)](https://open.spotify.com/user/elanmoridin) 
 --->
 <br />
 <br />
-### ⚡ GitHub Statistics:  
+<h2>⚡ GitHub Statistics:</h2>  
 <center>
   <table>
     <tr>
