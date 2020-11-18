@@ -1,5 +1,4 @@
-# Hi there 👋, I'm Zach Doll 👨‍💻
-
+# Hi there 👋, I'm Zach Doll 👨‍💻  
 ## I’m a passionate and authentic software engineer, tinkerer, and gamer
 <!--
 **elanmoridin/elanmoridin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -17,7 +16,7 @@ Here are some ideas to get you started:
 -->
 - 🌱 I’m currently learning more about Software Engineering
 - 💬 Ask me about anything tech related 
-- 
+- ⚡ Fun fact: I'm a giant geek - literally and figuratively
 ### ⚡ GitHub Statistics:  
 <center>
   <table>
