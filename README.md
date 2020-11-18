@@ -1,6 +1,7 @@
 ### Hi there, I'm Zach Doll 👋
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=elanmoridin)](https://github.com/elanmoridin/github-readme-stats)
 
+## I’m a passionate and authentic software engineer, tinkerer, and gamer. I love all things tech from automating things around the house to diving into a new language or script. I have a background in IT and have an incessant need to continue learning.
 <!--
 **elanmoridin/elanmoridin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
