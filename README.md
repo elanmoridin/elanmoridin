@@ -1,5 +1,4 @@
 ### Hi there, I'm Zach Doll 👋
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=elanmoridin)](https://github.com/elanmoridin/github-readme-stats)
 
 ## I’m a passionate and authentic software engineer, tinkerer, and gamer
 <!--
@@ -16,3 +15,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+⚡ GitHub Statistics:
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=elanmoridin&show_icons=true&theme=chartreuse-dark)](https://github.com/elanmoridin/github-readme-stats)
+
+
