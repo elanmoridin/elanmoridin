@@ -1,4 +1,5 @@
-<div align = 'left'>### Hi there, I'm Zach Doll 👋</div> <div align = 'right'>![](https://komarev.com/ghpvc/?username=elanmoridin&color=green)</div>
+### Hi there, I'm Zach Doll 👋
+<div align = 'right'>![](https://komarev.com/ghpvc/?username=elanmoridin&color=green)</div>
 
 ## I’m a passionate and authentic software engineer, tinkerer, and gamer
 <!--
