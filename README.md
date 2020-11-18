@@ -1,6 +1,5 @@
-<h1 align='center'>
-Hi there 👋, I'm Zach Doll 👨‍💻
-</h1>
+### Hi there 👋, I'm Zach Doll 👨‍💻
+
 ## I’m a passionate and authentic software engineer, tinkerer, and gamer
 <!--
 **elanmoridin/elanmoridin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
