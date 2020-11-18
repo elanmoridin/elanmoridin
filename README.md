@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 - 💬 Ask me about anything tech related 
 - ⚡ Fun fact: I'm a giant geek - literally and figuratively  
 ### Connect with me
-<a href="zach.doll@gmail.com">
+<a href="mailto:zach.doll@gmail.com">
   <img align="left" alt="gmail" src="https://img.shields.io/badge/gmail-D14836?&style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 <a href="http://www.instagram.com/elanmoridin/">
