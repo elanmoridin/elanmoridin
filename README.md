@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-⚡ GitHub Statistics:
+⚡ GitHub Statistics:  
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=elanmoridin&show_icons=true&theme=chartreuse-dark)](https://github.com/elanmoridin/github-readme-stats)
 
 
