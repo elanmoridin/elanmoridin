@@ -16,7 +16,10 @@ Here are some ideas to get you started:
 -->
 - 🌱 I’m currently learning more about Software Engineering
 - 💬 Ask me about anything tech related 
-- ⚡ Fun fact: I'm a giant geek - literally and figuratively  
+- ⚡ Fun fact: I'm a giant geek - literally and figuratively
+- :green_book: Avid Reader
+- I love the :deciduous_tree: outdoors as well as :city_sunrise: city
+- always learning :nerd_face:
 ### Connect with me
 <a href="mailto:zach.doll@gmail.com">
   <img align="left" alt="gmail" src="https://img.shields.io/badge/gmail-D14836?&style=for-the-badge&logo=gmail&logoColor=white" />
