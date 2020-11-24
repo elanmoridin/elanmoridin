@@ -27,6 +27,9 @@ Here are some ideas to get you started:
 <a href="https://www.linkedin.com/in/zachdoll">
   <img align="left" alt="linkedin" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
+<a href="https://zachdoll.com">
+  <img align="left" alt="porfolio" src="https://img.shields.io/badge/portfolio-%23100000.svg?&style=for-the-badge&logo=github&logoColor=white" />
+</a>
 <br />
 <br />
 <h2>Spotify Playing 🎧</h2>  
