@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-- 🌱 I’m currently learning more about Software Engineering
+- 🌱 I’m currently learning more about DevOps Engineering
 - 💬 Ask me about anything tech related 
 - ⚡ Fun fact: I'm a giant geek - literally and figuratively
 - :green_book: Avid Reader
