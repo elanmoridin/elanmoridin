@@ -35,9 +35,10 @@ Here are some ideas to get you started:
 </a>
 <br />
 <br />
+<!---
 <h2>Spotify Playing 🎧</h2>  
 ----> Working on this now <----
-<!---
+
 [![Spotify](https://novatorem.ereshzealous.vercel.app/api/spotify)](https://open.spotify.com/user/elanmoridin) 
 --->
 <br />
@@ -52,5 +53,6 @@ Here are some ideas to get you started:
     </tr>   
   </table>
 </center>
---->
+
 ![](https://komarev.com/ghpvc/?username=elanmoridin&color=green)
+--->
