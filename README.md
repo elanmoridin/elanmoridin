@@ -42,6 +42,7 @@ Here are some ideas to get you started:
 --->
 <br />
 <br />
+<!---
 <h2>⚡ GitHub Statistics:</h2>  
 <center>
   <table>
@@ -51,5 +52,5 @@ Here are some ideas to get you started:
     </tr>   
   </table>
 </center>
-
+--->
 ![](https://komarev.com/ghpvc/?username=elanmoridin&color=green)
